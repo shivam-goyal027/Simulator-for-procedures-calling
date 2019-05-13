@@ -1,0 +1,13 @@
+a:=10
+b:=20
+call P(a,5)
+a:=100
+z:=50
+x:=200
+call P(50,x)
+call R(2,2)
+call Q(a,10)
+ret
+ret
+ret
+ret
